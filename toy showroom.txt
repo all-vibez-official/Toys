@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Toy Showroom</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Welcome to Our Kowsi Ravi Toy Showroom</h1>
+        <nav>
+            <ul>
+                <li><a href="#products">Products</a></li>
+                <li><a href="#about">About Us</a></li>
+                <li><a href="#contact">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <section id="products">
+        <h2>Our Toy Products</h2>
+        <div class="product">
+            <img src="https://t4.ftcdn.net/jpg/03/24/42/21/360_F_324422176_Lgn7NTeFyNaUKIDu0Ppls1u8zb8wsKS4.jpg" alt="Toy 1">
+            <h3>Teddy Bear</h3>
+            <p>A teddy bear is a stuffed toy bear that is typically soft and cuddly, often made with plush materials and designed to resemble a bear cub. Teddy bears have been popular toys for children and collectors for many years and hold a special place in the hearts of people worldwide. Here are some key points about teddy bears:
+
+Origin: The name "teddy bear" is believed to have originated from an incident involving then-U.S. President Theodore "Teddy" Roosevelt in 1902. During a hunting trip in Mississippi, President Roosevelt refused to shoot a captured bear, which led to a political cartoon depicting the event. The cartoon inspired the creation of the first teddy bear.
+
+Design: Teddy bears are typically designed to be cute and huggable. They often have round faces, soft fur, and button or plastic eyes. They come in various sizes, from small ones that fit in the palm of your hand to large, life-sized versions.
+
+Materials: Teddy bears can be made from a variety of materials, including plush fabric, mohair, synthetic fur, or even organic materials. The choice of materials affects the bear's appearance and texture.
+
+Jointed Bears: Some teddy bears are jointed, meaning they have movable limbs and a head that can be turned. These jointed bears can be posed in different positions.
+
+Collector's Items: Many people collect teddy bears as a hobby. Some teddy bears are produced in limited quantities and are highly sought after by collectors. Antique teddy bears, especially those from the early 20th century, can be valuable.
+
+Personalization: Teddy bears are often given as gifts and can be personalized with names, messages, or custom clothing to make them even more special.
+
+Symbol of Comfort: Teddy bears are often associated with comfort, companionship, and childhood memories. Many children form strong emotional attachments to their teddy bears, which can provide a sense of security.
+
+Charitable Causes: Teddy bears are sometimes used for charitable purposes. Organizations and individuals donate teddy bears to hospitals, shelters, and disaster relief efforts to provide comfort to children in challenging situations.
+
+Popular Culture: Teddy bears have made appearances in literature, film, and popular culture. They are beloved characters in children's books and cartoons.
+
+Teddy Bear's Picnic: "The Teddy Bears' Picnic" is a popular children's song and nursery rhyme that further contributes to the teddy bear's cultural significance.
+
+Teddy bears continue to be cherished toys for children and collectibles for adults, evoking a sense of nostalgia and comfort. They remain a symbol of childhood innocence and the enduring appeal of a classic stuffed toy.</p>
+            <p>Price: Rs.450</p>
+        </div>
+
+        <div class="product">
+            <img src="https://t4.ftcdn.net/jpg/05/54/52/13/360_F_554521329_ngmDQSjSrUSRnbK2xK0bkcprsinG9Xdv.jpg" alt="Toy 2">
+            <h3>Panda</h3>
+            <p>Pandas are large, black and white bears native to China. They are known for their distinctive appearance, characterized by their round faces, black patches around their eyes, ears, and across their bodies, and their white fur
+Giant Pandas: There are two species of pandas: the giant panda (Ailuropoda melanoleuca) and the red panda (Ailurus fulgens). When people refer to "pandas" without specifying, they typically mean the giant panda.
+
+Habitat: Giant pandas are primarily found in the bamboo forests of southwestern China, particularly in Sichuan, Shaanxi, and Gansu provinces. They are known for their bamboo-based diet.
+
+Diet: Pandas are herbivores, and their diet consists mainly of bamboo. They have evolved adaptations, such as a specialized thumb-like wrist bone, to help them grasp and eat bamboo.
+
+Conservation Status: Giant pandas are classified as endangered by the International Union for Conservation of Nature (IUCN). Conservation efforts have been made to protect their natural habitat and promote breeding programs in captivity to increase their population.
+
+Reproduction: Pandas have a relatively low reproductive rate. Female pandas are fertile for only a few days each year, making successful mating and reproduction in captivity a significant challenge.
+
+Symbolism: Pandas are often seen as symbols of conservation efforts and diplomacy in China. They have been gifted to other countries as a symbol of goodwill, and they are a prominent symbol of the World Wildlife Fund (WWF).
+
+Physical Characteristics: In addition to their distinctive coloring, pandas have a strong bite, strong jaws, and sharp claws. They are excellent climbers and swimmers.
+
+Behavior: Pandas are generally solitary animals and are known for being peaceful and gentle. They communicate through vocalizations, scent marking, and body language.
+
+Cultural Significance: Pandas have played a significant role in Chinese culture and history, often symbolizing peace and harmony. They are featured in folklore, art, and even on the emblem of the People's Republic of China.
+
+Tourism: Many panda reserves and research centers in China allow tourists to observe and learn about these fascinating animals up close, contributing to both education and conservation efforts.
+
+Giant pandas are beloved worldwide for their unique appearance and behavior, making them a subject of interest and concern for conservationists and animal enthusiasts alike.</p>
+            <p>Price: Rs.299</p>
+        </div>
+
+        <!-- Add more products as needed -->
+    </section>
+
+    <section id="about">
+        <h2>About Us</h2>
+        <p>We are a leading toy showroom, dedicated to providing high-quality toys for kids of all ages. Our mission is to bring joy and happiness to children through our wide range of toys.</p>
+    </section>
+
+    <section id="contact">
+        <h2>Contact Us</h2>
+        <p>If you have any questions or would like to visit our showroom, please contact us at:</p>
+        <address>
+            <p>Email: <a href="mailto:info@kowsiravi0701@gmail.com">info@kowsiravi0701@gmail.com</a></p>
+            <p>Phone: <a href="tel:9003417213">+91 9003417213</a></p>
+            <p>Address: 123 Toy Street, Karur, INDIA</p>
+        </address>
+    </section>
+
+    <footer>
+        <p>&copy; 2023 Toy Showroom. All rights reserved.</p>
+    </footer>
+</body>
+</html>
